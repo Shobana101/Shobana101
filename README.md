@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shobana101
+- 👋 Hi, I’m Shobana Rajendran
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI and DS
 - 💞️ I’m looking to collaborate on Google
